@@ -1,0 +1,5 @@
+SMS Sent @ 2025-11-15 17:49:33
+Recipient: +639504885755
+HTTP: 200
+Response: {"status":"error","message":"Unauthenticated."}
+
